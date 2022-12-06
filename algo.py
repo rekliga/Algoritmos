@@ -1,3 +1,4 @@
+#Todos son algoritmos de operaciones aritmeticas basicas
 numero = 10
 numero1 = 2
 n=3
